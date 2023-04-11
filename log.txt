@@ -1,0 +1,23 @@
+commit 9c98841b74e8ea5f96bb1747f2f14d4ad078d059
+Author: John Davis <jtdavis@ucdavis.edu>
+Date:   Tue Apr 11 14:34:45 2023 -0700
+
+    Update and rename Johns_plans.txt to Johns_plans.md
+
+commit c2d29b62011ca6ccf13b75a42f972da04114ad9c
+Author: John Davis <jtdavis@ucdavis.edu>
+Date:   Tue Apr 11 14:34:26 2023 -0700
+
+    Create Johns_plans.txt
+
+commit 5036d23a33ff91ead2844c582b64ceb5026f7ade
+Author: MachteldvH <machteld.vanheule@ugent.be>
+Date:   Tue Apr 11 14:27:56 2023 -0700
+
+    new file
+
+commit 05c89991065fad2976b55f8d35dc28d01976b834
+Author: MachteldvH <machteld.vanheule@ugent.be>
+Date:   Tue Apr 11 14:22:46 2023 -0700
+
+    new readme
